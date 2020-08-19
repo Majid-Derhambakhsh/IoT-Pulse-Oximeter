@@ -18,7 +18,7 @@ IoT Based 'Pulse Oximeter' With Arduino
 ### The IoT Pulse Oximeter system can be used as follows:   
 #### 1.  Setup your thinger.io service:  
 ####   Youtube:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p5sq3HfshbY/0.jpg)](https://www.youtube.com/watch?v=p5sq3HfshbY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eFTKsKjfIe8/0.jpg)](https://www.youtube.com/watch?v=eFTKsKjfIe8)
 
 #### 2.  Config ESP8266 & thinger.io service in 'network_chip_conf.h' header, for example:  
    * Options:  
